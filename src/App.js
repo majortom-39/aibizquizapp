@@ -661,7 +661,7 @@ function App() {
           <div className="startup-content">
             <div className="logo-section">
               <img 
-                src="/logo/Logo.svg" 
+                src={`${process.env.PUBLIC_URL}/logo/Logo.svg`} 
                 alt="Quiz App Logo" 
                 className="startup-logo"
                 onError={(e) => {
