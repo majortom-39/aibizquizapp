@@ -1,6 +1,5 @@
 {
   "name": "quizapp",
-  "homepage": "https://majortom-39.github.io/AI-Biz-Quiz-App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
