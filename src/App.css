@@ -139,7 +139,7 @@ body {
 /* Startup Page Styles - Clean & Minimal */
 .startup-container {
   width: 100vw;
-  height: 100vh;
+  height: 100dvh;
   background-image: url('./Background.svg');
   background-size: cover;
   background-position: center;
@@ -177,7 +177,7 @@ body {
   color: var(--white);
   max-width: 600px;
   width: 100%;
-  height: 100vh;
+  height: 100%;
   animation: startupFadeIn 0.8s cubic-bezier(0.4, 0, 0.2, 1);
   display: flex;
   flex-direction: column;
